@@ -23,6 +23,8 @@ minimumReleaseAgeExclude:
   - dompurify@3.4.0
   - postcss@8.5.10
   - pyodide@314.0.0
+  # Renovate security update: vitest@3.2.6
+  - vitest@3.2.6
 blockExoticSubdeps: true
 trustPolicy: no-downgrade
 trustPolicyExclude:
